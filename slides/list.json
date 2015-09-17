@@ -27,8 +27,7 @@
         "forward.html",
         "inbox-zero-one-email-too-many-is-better-than-one-too-few.html",
         "read-emails-whenever-you-want.html",
-        "everything-in-moderation.html",
-        "how-to-get-inbox-zero-in-outlook.html"
+        "everything-in-moderation.html"
     ],
     [
         "google-inbox.html",
@@ -53,7 +52,8 @@
         "gi-do.html",
         "vgc-defer.html",
         "vgc-threads.html",
-        "vgc-groups.html"
+        "vgc-groups.html",
+        "vgc-shortcuts.html"
     ],
     [
         "vgc-settings.html",
@@ -72,7 +72,13 @@
         "boomerang-conclusions.html",
         "multiple-inboxes.html"
     ],
+    "how-to-get-inbox-zero-in-outlook.html",
     [
+        "bonus.html",
+        "bonus.html",
+        "bonus.html",
+        "bonus.html",
+        "bonus.html",
         "bonus.html",
         "bonus.html"
     ],
