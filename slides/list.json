@@ -44,5 +44,36 @@
         "reminders.html",
         "move-email.html",
         "what-google-inbox-won-t-let-you-do.html"
+    ],
+    [
+        "vanilla-gmail-client.html",
+        "vgc-delete.html",
+        "vgc-respond.html",
+        "vgc-delegate.html",
+        "gi-do.html",
+        "vgc-defer.html",
+        "vgc-threads.html",
+        "vgc-groups.html"
+    ],
+    [
+        "vgc-settings.html",
+        "vgc-reply-all.html",
+        "vgc-stars.html",
+        "vgc-signature.html",
+        "vgc-categories.html",
+        "vgc-send-mail-as.html",
+        "vgc-filters.html"
+    ],
+    [
+        "vgc-addons.html",
+        "boomerang.html",
+        "boomerang-defer.html",
+        "boomerang-save-later.html",
+        "boomerang-conclusions.html",
+        "multiple-inboxes.html"
+    ],
+    [
+        "bonus.html",
+        "bonus.html"
     ]
 ]
