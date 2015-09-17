@@ -89,7 +89,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:haakoaa/time-management.git'
+                    remote: 'git@github.com:haakoaa/inbox-zero.git'
                     branch: 'gh-pages'
         
 
