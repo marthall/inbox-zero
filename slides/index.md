@@ -1,7 +1,7 @@
 
 # Inbox Zero
 
-hawk.guru/inbox-zero
+Martin Hallén
 
 Note:
 Hei alle sammen. Kommer til å snakke litt om "inbox zero" 
